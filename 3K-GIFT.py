@@ -72,7 +72,7 @@ for xd in range(10000):
     f=random.randrange(1, 99)
     uaku2=(f'{a}{b}{c}{d}{e}{f}')
     ugen.append(uaku2)
-os.system('xdg-open https://github.com/HaroonAfridi11/sana.py')
+os.system('xdg-open https://github.com/HaroonAfridi11/sana.git')
 logo = ("""
 \033[1;91m   \033[1;92m   
 \033[1;93m     
